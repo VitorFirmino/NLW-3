@@ -44,7 +44,7 @@ $ cd server
 $ yarn
 
 # Execute o projeto
-$ yarn start
+$ yarn dev
 ```
 
 ### 🖥️ Configurando o modulo do site
